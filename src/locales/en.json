@@ -1,0 +1,8 @@
+{
+  "gallery": {
+    "year": "Year:",
+    "imdbId": "ImdbID",
+    "searchPlaceholder": "Enter movie name",
+    "noMovieFound": "No one movie found. Please, change request..."
+  }
+}
